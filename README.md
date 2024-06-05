@@ -4,10 +4,12 @@
 
 	1. Parameterization can take the radius of a sphere and return its volume.
 	2. Implement the parameterization in a language of your choice
-	3. Expect the continuous introduction of new science features over the course of many years by many contributors
+	3. Expect the continuous introduction of new science features over the course
+     of many years by many contributors
 	4. Wide range of users: 
      a.) Those who want to use your software directly and interactively.
-      b.) Those who want to incorporate your implementation in larger software packages
+     b.) Those who want to incorporate your implementation in larger software
+         packages
 	5. Discuss the reasoning behind specific design choices.
 	6. We expect to see your code on some version control site(s) (Git Hub, GitLab, bitbucket, etc.). 
 
